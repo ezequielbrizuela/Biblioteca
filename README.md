@@ -29,7 +29,7 @@ src/main/java/unlar/edu/ar/
 
 ## Como ejecutar
 
-- Para ejecutar el programa, ejecute el archivo `Biblioteca.bat` haciendo doble click en él, o en una consola dentro del proyecto ejecute los siguientes comandos:
+- Para ejecutar el programa, en una consola dentro del proyecto ejecute los siguientes comandos:
 ```bash
 mvn compile
 mvn exec:java
