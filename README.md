@@ -37,7 +37,8 @@ mvn exec:java
 ## Documentacion
 
 - Documentacion completa del trabajo: `docs/DOCUMENTACION.md`
-- Diagrama de clases editable: `docs/DiagramaClases.drawio`
+- Diagrama de clases editable: `docs/BibliotecaDiagramaClases.drawio`
+- Diagrama de clases en formato PDF: `docs/BibliotecaDiagramaClases.pdf`
 - Resumen textual del UML: `docs/UML_Biblioteca.md`
 
 ## Datos de prueba cargados
