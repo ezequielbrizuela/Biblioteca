@@ -36,7 +36,7 @@ mvn exec:java
 
 ## Documentacion
 
-- Lineamientos y estructura del proyecto: `TP_Biblioteca_POO.pdf`
+- Lineamientos y estructura del proyecto: `docs/TP_Biblioteca_POO.pdf`
 - Documentacion completa del trabajo: `docs/DOCUMENTACION.md`
 - Diagrama de clases editable: `docs/BibliotecaDiagramaClases.drawio`
 - Diagrama de clases en formato PDF: `docs/BibliotecaDiagramaClases.pdf`
